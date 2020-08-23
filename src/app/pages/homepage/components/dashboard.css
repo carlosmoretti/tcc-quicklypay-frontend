@@ -1,0 +1,18 @@
+.jumbo-travel {
+    border-radius: 10px;
+    padding: 2rem;
+    color: #FFF;
+    background-image: linear-gradient(rgba(	0,0,0,0.5), rgba(8,0,0,0.5)), url("https://blog.saipos.com/wp-content/uploads/2019/04/Qual-%C3%A9-margem-de-lucro-de-uma-hamburgueria-SAIPOS-Sistema-para-Restaurantes.jpg");
+    background-size: cover;
+}
+
+.card {
+    color: #000;
+    font-size: 0.8rem;
+}
+
+.card-content {
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
